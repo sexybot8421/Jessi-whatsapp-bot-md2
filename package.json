@@ -1,5 +1,5 @@
 {
-  "name": "Jessi-whatsapp-bot-md",
+  "name": "𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸 𝙱𝙾𝚃",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "jessimd.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Mr.White Shadow",
+  "author": "𝙼𝚁.𝙰𝚂𝙷𝙸𝙽𝙸",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
